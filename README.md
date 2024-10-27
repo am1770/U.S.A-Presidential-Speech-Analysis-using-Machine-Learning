@@ -17,8 +17,8 @@ Character Count: Total characters per speech, excluding spaces and punctuation, 
 Word Count: The number of words per speech provides a speech duration and pacing metric.
 Sentence Count: Sentence counts indicate complexity and structure, which is useful for analyzing rhetorical style.
 ### Installation & Setup
-git clone https://github.com/your-username/U.S.A-Presidential-Speech-Analysis.git
-pip install -r requirements.txt
-import nltk
-nltk.download('inaugural')
-nltk.download('punkt')
+- git clone https://github.com/your-username/U.S.A-Presidential-Speech-Analysis.git
+- pip install -r requirements.txt
+- import nltk
+- nltk.download('inaugural')
+- nltk.download('punkt')
